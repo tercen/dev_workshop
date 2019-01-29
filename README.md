@@ -5,9 +5,10 @@ Tercen is a powerful next generation, collaborative analysis tool. It aims to "e
 This is an app developers workshop. The workshop last a day and is split into two main sections. The morning section is filled with given exercises with a given dataset, the afternoon section is where the researcher can bring their own dataset and have a one-2-one session with Tercen trainers.
 
 Please bring your laptop with a Google chrome browser installed.
-|  .        |  .    |  .
+
+
+|  .        |  __Developer workshop__ |  .
 | :---      | :---: | :---
-| __Day2__  |       | __Developer workshop__
 | Morning   |       |
 |           | 11:00 | __Start__
 |           |       | concepts (e.g tables, relational algebra)
