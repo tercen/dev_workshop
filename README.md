@@ -6,8 +6,9 @@ This is an app developers workshop. The workshop last a day and is split into tw
 
 Please bring your laptop with a Google chrome browser installed.
 
-
-|  .        |  __Developer workshop__ |  .
+ __Developer Workshop Agenda__
+ 
+|  .        |  .    |  .
 | :---      | :---: | :---
 | Morning   |       |
 |           | 11:00 | __Start__
