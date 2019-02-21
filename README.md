@@ -6,6 +6,9 @@ This is an app developers workshop. The workshop last a day and is split into tw
 
 Please bring your laptop with a Google chrome browser installed.
 
+# Presentation
+ https://tercen.github.io/dev_workshop
+
  __Developer Workshop Agenda__
  
 |  .        |  .    |  .
