@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <center>workshop on github </center>
 
-<center>(https://github.com/tercen/user_workshop)</center>
+<center>(https://github.com/tercen/dev_workshop)</center>
 
 ## Agenda
 - concepts (e.g tables, relational algebra)
@@ -148,6 +148,13 @@ install.packages("devtools")
 install.packages("packrat")
 install.packages("dplyr")
 ```
+
+## rtson
+
+- install rtson package, go to
+  - LINUX, you need to install Rust lang
+  - https://github.com/tercen/TSON/tree/master/rtson
+
 ## tercen
 - install tercen package, go to
   - https://github.com/tercen/teRcen
@@ -156,11 +163,6 @@ install.packages("dplyr")
 devtools::install_github("tercen/teRcen", ref = "0.7.1", upgrade_dependencies = FALSE, args="--no-multiarch")
 ```
 
-## rtson
-
-- install rtson package, go to
-  - LINUX, you need to install Rust lang
-  - https://github.com/tercen/TSON/tree/master/rtson
 
 ## Install Tercen docker
 
@@ -172,10 +174,7 @@ go to https://github.com/tercen/tercen_docker
 <center>...welcome to Tercen...</center>
 
 
-## Tercen
 
-- Get workflow
-- Import workflow
 
 
 
@@ -213,6 +212,11 @@ go to https://github.com/tercen/tercen_docker
 - per cell
 - per row or col
 - per table
+
+## Tercen
+
+- export workflow
+- import workflow
 
 ## Tercen operators
 
