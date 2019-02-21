@@ -1,0 +1,10 @@
+gene_id	sample_id	measurement
+gene_1	sample_1	10
+gene_2	sample_1	50
+gene_3	sample_1	25
+gene_1	sample_2	12
+gene_2	sample_2	45
+gene_3	sample_2	30
+gene_1	sample_3	12
+gene_2	sample_3	45
+gene_3	sample_3	30

@@ -14,14 +14,12 @@ Please bring your laptop with a Google chrome browser installed.
 |           | 11:00 | __Start__
 |           |       | concepts (e.g tables, relational algebra)
 |           |       | github (e.g. github/tercen, app-library)
-|           |       | dev environment setup (RStudio)
-|           |       | operator development (e.g. mean, cluster)
-|           |       | publishing an operator (e.g. github)
+|           |       | dev environment setup (RStudio, Tercen)
 |           | 12:30 | __Lunch__
 | Afternoon |       |
-|           | 13:00 | modifying shiny venn and shiny cellplot
-|           |       | app development (e.g. two group app, PCA app)
+|           | 13:30 | operator development (e.g. mean)
+|           |       | publishing an operator (e.g. github)
 |           |       | automation via programmatic interface
-|           | 14:15 | __Coffee__
+|           | 15:15 | __Coffee__
 |           | 14:30 | one-2-one sessions (make your own operator)
-|           | 18:00 | __End of day__ 
+|           | 17:00 | __End of day__ 
